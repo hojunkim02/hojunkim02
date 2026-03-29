@@ -2,7 +2,7 @@
 
 ## 노마드코더 웹 시리즈: 풀스택 기초
 
-Learned through [Wetube](https://github.com/yurucoder/wetube) project at [Nomad Coders](https://nomadcoders.co/wetube)  
+Learned through [Wetube](https://github.com/hojunkim02/wetube) project at [Nomad Coders](https://nomadcoders.co/wetube)  
 Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guidance!
 
 | 분야     | 기술                  |
@@ -11,9 +11,9 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 | Backend  | Node.js, Express      |
 | Database | MongoDB, mongoose     |
 
-[**kokoa-talk**](https://github.com/yurucoder/kokoa-talk): 나의 첫 코딩 프로젝트  
-[**momentum**](https://github.com/yurucoder/momentum): 나의 첫 프로그래밍 프로젝트  
-[**wetube**](https://github.com/yurucoder/wetube): 나의 첫 풀스택 프로젝트
+[**kokoa-talk**](https://github.com/hojunkim02/kokoa-talk): 나의 첫 코딩 프로젝트  
+[**momentum**](https://github.com/hojunkim02/momentum): 나의 첫 프로그래밍 프로젝트  
+[**wetube**](https://github.com/hojunkim02/wetube): 나의 첫 풀스택 프로젝트
 
 ## 라멘 랩: 안드로이드 기초
 
@@ -23,7 +23,7 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 | Backend  | Spring Boot with Kotlin                      |
 | Database | MySQL, JPA                                   |
 
-[**ramen-lab**](https://github.com/yurucoder/ramen-lab): 라멘 랩 안드로이드 앱  
+[**ramen-lab**](https://github.com/hojunkim02/ramen-lab): 라멘 랩 안드로이드 앱  
 **ramen-server**: 라멘 랩 스프링 서버
 
 ## 테이스트빈: 안드로이드와 머신러닝
@@ -34,8 +34,8 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 | Backend  | FastAPI, OpenAI API    |
 | Database | PostgreSQL, SQLAlchemy |
 
-[**tastevin**](https://github.com/yurucoder/tastevin): 테이스트빈 안드로이드 앱  
-[**fast-server**](https://github.com/yurucoder/fast-server): 테이스트빈 파이썬 서버
+[**tastevin**](https://github.com/hojunkim02/tastevin): 테이스트빈 안드로이드 앱  
+[**fast-server**](https://github.com/hojunkim02/fast-server): 테이스트빈 파이썬 서버
 
 ## 먼저섞은: 리액트 네이티브와 임베디드 시스템
 
@@ -44,5 +44,5 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 | Mobile  | React Native    |
 | Arduino | Arduino Modules |
 
-[**premixed-app**](https://github.com/yurucoder/premixed-app): 먼저섞은 리액트 네이티브 앱  
-[**premixed-ino**](https://github.com/yurucoder/premixed-ino): 먼저섞은 아두이노
+[**premixed-app**](https://github.com/hojunkim02/premixed-app): 먼저섞은 리액트 네이티브 앱  
+[**premixed-ino**](https://github.com/hojunkim02/premixed-ino): 먼저섞은 아두이노
