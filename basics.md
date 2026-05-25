@@ -9,7 +9,8 @@
 
 ## 서적 구현
 
-- [**밑바닥부터 시작하는 딥러닝**](https://github.com/hojunkim02/fishdl)
+- [**밑바닥부터 시작하는 딥러닝**](https://github.com/hojunkim02/fish-dl)
+- [**파이토치로 배우는 LLM&AI**](https://github.com/hojunkim02/bird-dl)
 - [**0부터 시작하는 OS 자작 입문**](https://github.com/hojunkim02/naranja)
 
 ## 기술 튜토리얼
