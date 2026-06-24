@@ -6,6 +6,7 @@
 - [**객체지향 프로그래밍**](https://github.com/hojunkim02/structured-c)
 - [**시스템 프로그래밍**](https://github.com/hojunkim02/system-programming)
 - [**자료구조**](https://github.com/hojunkim02/data-structure)
+- [**전공별 AI 활용**](https://github.com/hojunkim02/basic-ai)
 
 ## 서적 구현
 
