@@ -36,13 +36,3 @@ Special thanks to [Nico](https://github.com/serranoarevalo) for the amazing guid
 
 [**tastevin**](https://github.com/hojunkim02/tastevin): 테이스트빈 안드로이드 앱  
 [**fast-server**](https://github.com/hojunkim02/fast-server): 테이스트빈 파이썬 서버
-
-## 먼저섞은: 리액트 네이티브와 임베디드 시스템
-
-| 분야    | 기술            |
-| ------- | --------------- |
-| Mobile  | React Native    |
-| Arduino | Arduino Modules |
-
-[**premixed-app**](https://github.com/hojunkim02/premixed-app): 먼저섞은 리액트 네이티브 앱  
-[**premixed-ino**](https://github.com/hojunkim02/premixed-ino): 먼저섞은 아두이노
