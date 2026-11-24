@@ -12,7 +12,6 @@
 
 - [**밑바닥부터 시작하는 딥러닝**](https://github.com/hojunkim02/fish-dl)
 - [**파이토치로 배우는 LLM&AI**](https://github.com/hojunkim02/bird-dl)
-- **0부터 시작하는 OS 자작 입문**
 
 ## 기술 튜토리얼
 
@@ -30,8 +29,3 @@
 
 - [**웹 스크래퍼**](https://github.com/hojunkim02/py-scrapper)
 - [**데이터 플로팅**](https://github.com/hojunkim02/corona-dashboard)
-
-### Game Engine
-
-- [**유니티2D 게임**](https://github.com/hojunkim02/KimchiRun)
-- [**언리얼 엔진 기초**](https://github.com/hojunkim02/ARProject)
